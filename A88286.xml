@@ -1,0 +1,220 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Observations for this present year, 1667 By William Lilly student in astrology.</title>
+            <author>Lilly, William, 1602-1681.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88286</idno>
+            <idno type="STC">Wing L2235B</idno>
+            <idno type="STC">ESTC R230709</idno>
+            <idno type="EEBO-CITATION">99896436</idno>
+            <idno type="PROQUEST">99896436</idno>
+            <idno type="VID">154264</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88286)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154264)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2408:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Observations for this present year, 1667 By William Lilly student in astrology.</title>
+                  <author>Lilly, William, 1602-1681.</author>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, 1667.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Astrology --  Early works to 1800.</term>
+               <term>Predictive astrology --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:154264:1"/>
+OBSERVATIONS For this preſent Year, 1667.</p>
+            <p>By <hi>WILLIAM LILLY,</hi> Student in <hi>Aſtrology.</hi>
+            </p>
+            <figure>
+               <figDesc>compass rose and planet</figDesc>
+            </figure>
+            <p>Printed in the Year, 1667.</p>
+            <pb facs="tcp:154264:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:154264:2"/>
+            <head>Obſervations for this preſent Year, 1667.</head>
+            <div n="january" type="month">
+               <head>JANUARIES <hi>Obſervations.</hi> 1667.</head>
+               <p>IN <hi>December,</hi> though two Eclipſes, one of the Sun and another of the Moon hapned, yet little of their effects will appear in <hi>Europe,</hi> except in <hi>Por<g ref="char:EOLhyphen"/>tugal</hi> and <hi>Spain;</hi> and thoſe effects rather concern animoſities betwixt or among the Grandees, then particularly to either Nation: however, various re<g ref="char:EOLhyphen"/>ports will come from the <hi>Weſt-Indies</hi> of both Na<g ref="char:EOLhyphen"/>tions, intimating damages received by either party in thoſe parts. <hi>January</hi> begins ſtrangely as to the Weather; abundance of ſnow, ſleet, or moiſt wea<g ref="char:EOLhyphen"/>ther, cloudy, obſcure, and dark; and if the influ<g ref="char:EOLhyphen"/>ence of the late Comets impede not the weather, we might expect very ſtrange floods; but uſually Comets are percuſſors of drought in every Seaſon of the Year. The North-weſt part of <hi>Europe,</hi> and thoſe Countries North which border upon <hi>Muſco<g ref="char:EOLhyphen"/>via</hi> and <hi>Tartaria,</hi> highly concerned in their con<g ref="char:EOLhyphen"/>ſultations in this month; neer this time alſo the City of <hi>Breme</hi> is threatned with great unhappineſs, if Peace be not ere this concluded betwixt the <hi>Swe<g ref="char:EOLhyphen"/>diſh</hi> Nation and it. High honour is done to ſome Eccleſiaſtical perſon in Forreign parts; and the
+<pb n="4" facs="tcp:154264:3"/>
+like advancement to ſome of our own Nation, ei<g ref="char:EOLhyphen"/>ther Civil or Temporal.</p>
+               <p>Many reports fly abrod as if ſome Treaty for Peace were in hand; people willingly embrace that Intelligence, but time makes it appear a vapour: Our Enemies have not yet had a ſufficient ſhare of the ſecond Comets influence; let them expect it with a ſad Intereſt in this Summer.</p>
+            </div>
+            <div n="february" type="month">
+               <head>FEBRUARIES <hi>Obſervations.</hi> 1667.</head>
+               <p>THe King of <hi>Poland</hi> his Affairs ſeem to proceed but untowardly, rather they backſlide then go forward<hi>:</hi> So neer this time ſome unruly irruption, diſturbs his imperial Majeſties Subjects neer the Turkiſh Garriſons. Still men hearken after Peace, the generality of <hi>Holland</hi> above all people deſiring it; no probability as yet of any right underſtand<g ref="char:EOLhyphen"/>ing to that purpoſe. Now is <hi>Jupiter</hi> entred <hi>Aries</hi> the Aſcendant of <hi>England;</hi> from thence we may expect an happy unity amongſt our ſelves, and per<g ref="char:EOLhyphen"/>ceive Gods Mercies generally to ſmile upon the Actions of his Majeſty, and grand Affairs of the whole Nation, infinitely to the ſatisfaction of all ſober perſons. If the Seaſon of the year permit, there may happen about this Month ſome warlike action betwixt the <hi>Spaniſh</hi> and <hi>Portugal</hi> Forces. An appearance of drawing Forces into <hi>Normandy,</hi> the <hi>French</hi> King being active neer this month; but Providence ſeems to contradict his intentions, and the prudence of his Majeſty of <hi>England</hi> prevents all fear of <hi>French</hi> Invaſion. <hi>Mars</hi> is entred <hi>Aries,</hi> aſſociates with <hi>Jupiter</hi> in all his Majeſty of <hi>Great</hi>
+                  <pb n="5" facs="tcp:154264:3"/>
+                  <hi>Britains</hi> Conducts<hi>:</hi> whether the <hi>French</hi> King re<g ref="char:EOLhyphen"/>ſolve upon War or Peace, it's no matter; if his Navies will peep out of their Harbours, they muſt return home again if they can; but aſſuredly deſtruction, or captivity, or ſinking, will be the final end of moſt of thoſe who ſhall encounter His Majeſty of <hi>Great Britains</hi> Sea-Forces in this year.</p>
+            </div>
+            <div n="march" type="month">
+               <head>MARCHES <hi>Obſervations.</hi> 1667.</head>
+               <p>THree Superiour Planets angular in the vernal Scheam; the two Infortunes eſſentially dig<g ref="char:EOLhyphen"/>nified; the benevolent <hi>Jupiter</hi> oppreſſed<hi>:</hi> theſe argue the vivacity of mankind prone wholly unto War, and the ſuperlative tranſactions now in con<g ref="char:EOLhyphen"/>ſultation, how, where, and when to offend their enemies, how to fortifie themſelves, or to do moſt miſchief: And though ſome moderate Spirits or grave Councellors in many Nations ſtudy wholly for Peace or Reconcilment, yet it is more than probable their deſigns are fruſtrate, and the whole inclination of man tends for warlike concernments. The Monarch of <hi>Great Britain</hi> ſeems in greateſt readineſs for action, and beſt provided: The <hi>Dutch</hi> fearful of a plague and conſumption of their Sea<g ref="char:EOLhyphen"/>men, nor in a preſent capacity of undertaking any great deſign: The <hi>French</hi> ſeem at a ſtand, ſome emergent misfortune having hapned unto them, or feared to happen amongſt themſelves ſuddenly<hi>: Ne verbum quidem de Dano:</hi> The <hi>Dane</hi> cannot get out of his Harbours; No penny, no <hi>Pater-noſters:</hi> The <hi>Polonian</hi> King in great fear of his Subjects, matters ſeeming to tend again to Rebellion, or ta<g ref="char:EOLhyphen"/>king
+<pb n="6" facs="tcp:154264:4"/>
+up Arms. The <hi>Swediſh</hi> Nation, the Seaſon of the year conſidered, ſeem the moſt active of all <hi>Europe;</hi> and reaſon there is; for ſome violent ſtorm is like to breakforth upon them from a bar<g ref="char:EOLhyphen"/>barous people, if not prevented.</p>
+               <p>Much good intelligence comes into <hi>England</hi> from the North-eaſt, and many of her Ships or much Goods arrive at <hi>London,</hi> or moſt certain News of their Ships being well conditioned, and ſuddenly like to arrive.</p>
+            </div>
+            <div n="april" type="month">
+               <head>APRILS <hi>Obſervations.</hi> 1667.</head>
+               <p>THe Month begins with various Reports, mali<g ref="char:EOLhyphen"/>cious and vain, intimating loſſes at Sea, ſome Weſtward, ſome Southward; others diſaffected to the honour of <hi>England</hi> make Mountains of Mole<g ref="char:EOLhyphen"/>hills, diſperſing ſcandalous Libels againſt Authori<g ref="char:EOLunhyphen"/>ty; a people neither ſatisfied in their own judge<g ref="char:EOLhyphen"/>ments, or willing to be inſtructed from the more learned Doctrine of the Church of <hi>England.</hi> Here ſeems breach of Leagues, or miſunderſtandings a<g ref="char:EOLhyphen"/>mongſt many Confederated Princes; great failings in their mutual Aids one unto another. The <hi>Am<g ref="char:EOLhyphen"/>ſterdam-merchants,</hi> as alſo the generality of <hi>Holland,</hi> find great oppoſition in their Vocations and Call<g ref="char:EOLhyphen"/>ings; they ſeem now more ſenſible of their pre<g ref="char:EOLhyphen"/>ſent ſad condition than for ſome years before. New broils begin to ariſe in <hi>Polland;</hi> the Princes of <hi>Ger<g ref="char:EOLhyphen"/>many</hi> at variance one with another; the North parts of <hi>Sweden</hi> like to be invaded; and there are not wanting evil ſpirits to ſtir up a Commotion in <hi>Ireland.</hi> The <hi>Lorrainer</hi> where ever he is, is much
+<pb n="7" facs="tcp:154264:4"/>
+ſpoken of for his plundring, and probably like to ſuffer for his inſolencies. Some pyratical people threaten the Engliſh Ships coming from <hi>Barbadoes,</hi> and thoſe more remote Plantations. If the <hi>Navies</hi> of <hi>France</hi> and <hi>Holland</hi> were fitted at Sea, it were more than probable His Majeſty might be bleſſed with a glorious and ſucceſsful Victory; but we can<g ref="char:EOLhyphen"/>not find either <hi>Dane, Dutch</hi> or <hi>French,</hi> ſufficiently provided for ſo ſad an encounter; or is there any probability of their meeting or joyning together in many weeks after; yet towards the latter end of this Month reports will be as if all would ſud<g ref="char:EOLhyphen"/>denly be ready: be it ſo; or if were ſo, nothing but our great and manifold ſins can hinder us of an entire Victory.</p>
+            </div>
+            <div n="may" type="month">
+               <head>MAYS <hi>Obſervations</hi> 1667.</head>
+               <p>WHere &amp; in what Countries Armies are neer one another there will be great ſlaughter of mankind ſuddenly. Where Fleets at Sea are out, a dubious and tedious Fight there will be, wherein the <hi>Hollanders</hi> are ſure to be worſted, by firing, burning, or taking their beſt and moſt ſerviceable Ships, killing and deſtroying their moſt able and ſerviceable Commanders and men; neither will the <hi>Dane</hi> or <hi>French</hi> ſpeed better; the <hi>Dane</hi> ſeems to loſe his honour by not fighting, and much aſperſ<g ref="char:EOLhyphen"/>ed therefore: providence ſeems to bleſs the <hi>French</hi> King with anſwerable ſucceſs, <hi>viz.</hi> with the captivity of many of his Ships and Men. Perhaps theſe actions may be retarded ſomething longer. <hi>Deſtru<g ref="char:EOLhyphen"/>ctio in pluribus Climatibus:</hi> Great deſtruction in
+<pb n="8" facs="tcp:154264:5"/>
+many Countries, Sad weather, the ſeaſon conſide<g ref="char:EOLhyphen"/>red; high tempeſtuous Winds, ſtrange Thunder and Lightning, ſudden and violent Showrs; ſome begin to fear the Plague or Peſtilence, we hope no ſuch thing will be. Many violent actions commit<g ref="char:EOLhyphen"/>ted this Month; many Murthers, unhappy Duels; many Pyracies at Sea, much Thievery at Land; and yet if our judgment deceive us not, this Nation ſeems bleſſed with ſome remarkable teſtimony of Gods favour, even in or neer this Month, highly to the honour of His Majeſty, and ſatisfaction and content of the whole Kingdom; for here is pro<g ref="char:EOLhyphen"/>bability of much Honour conferred on deſerving Perſons, as well Sword-men as Gown-men; and we have cauſe to believe His Majeſty to be much honoured neer this time by ſeveral Embaſſadors from Forreign Parts to congratulate His Succeſſes.</p>
+            </div>
+            <div n="june" type="month">
+               <head>JUNES <hi>Obſervations.</hi> 1667.</head>
+               <p>THis Month ſeems to be uſher'd in with great expectation of Peace, and His Majeſty court<g ref="char:EOLhyphen"/>ed thereunto by Agents from ſeveral Parts; but Heaven we fear hath no ſuch bleſſing for the <hi>Hol<g ref="char:EOLhyphen"/>lander,</hi> divine Vengeance having as yet not ſcour<g ref="char:EOLhyphen"/>ged them, ſufficiently for their former inſolencies. The King of <hi>Denmark</hi> threatned with War and many ſad miſchances neer his own Confines, a ſtur<g ref="char:EOLhyphen"/>dy Enemy and powerful, watching all opportunities againſt him. The <hi>French</hi> King ſeems to expend much money, and to make great preparations to little purpoſe; he wil in a ſhort time be ſenſible of the firſt Comets influence, for evil and not for good.
+<pb n="9" facs="tcp:154264:5"/>
+In this Month there is a Quadrat aſpect betwixt ♄ and ♃, whereby we judge great difficulty, much fraud deceit, and tergiverſation in ſuch things and matters as might otherwiſe tend to a reconciliation of dif<g ref="char:EOLhyphen"/>ferences. The Ingreſs of ☉ into ♋, and the ſeveral Lunations of this month do rather portend-Sea<g ref="char:EOLhyphen"/>fights, Wars, <hi>&amp;c.</hi> then give hopes of Peace; parti<g ref="char:EOLhyphen"/>cularly, the ſeveral Configurations do very much threaten <hi>Holland</hi> wirh a moſt ſtrange and unuſual loſs at Sea, if they ſhall dare to fight His Majeſties Forces. Still poor <hi>Polland</hi> is threatned either by the <hi>Muſcovite</hi> or wandring <hi>Coſſacks.</hi> Strange rumors di<g ref="char:EOLhyphen"/>ſperſed in <hi>London,</hi> ſome vain people abuſe His Ma<g ref="char:EOLhyphen"/>jeſties Subjects with untruths and ill-grounded ſug<g ref="char:EOLhyphen"/>geſtions. Much diviſion in <hi>London</hi> about Building, perhaps that may occaſion thoſe vain and idle re<g ref="char:EOLhyphen"/>ports before-mentioned. Strange news out of <hi>Hol<g ref="char:EOLhyphen"/>land,</hi> as if all were in an uproar; we believe they are now in a ſad and fearful condition. <hi>Diſcite ju<g ref="char:EOLhyphen"/>ſtitiam.</hi>
+               </p>
+            </div>
+            <div n="july" type="month">
+               <head>JULIES <hi>Obſervations.</hi> 1667.</head>
+               <p>THe Sun draws neer to the oppoſition of <hi>Sa<g ref="char:EOLhyphen"/>turn,</hi> and he-retrograde, now in this Month neer his place in the Vernal Scheam, the Sun and he both with a quadrate aſpect beholding the Aſcen<g ref="char:EOLhyphen"/>dant of the Solſtitial Ingreſſe, as alſo neer to the Quadrate of <hi>Jupiter</hi> in that Figure.</p>
+               <l>
+                  <hi>Quis talia fando temperat à lachrymis?</hi>
+               </l>
+               <p>The Aſpects are in cardinal Signs; beſides, <hi>Mars</hi> is entred <hi>Cancer;</hi> A great ſlaughter of Mankind is at hand, and it may be feared both at Sea and Land,
+<pb n="10" facs="tcp:154264:6"/>
+where there is fit matter to work upon. Theſe Aſpects ſeem formidable unto the <hi>French</hi> King both at Sea and Land, eſpecially at Sea: The <hi>Hollander</hi> from the ill ſucceſſe he ſhall find in this Month, if he ſubmit not before unto a Peace, ſhall perceive its in vain to ſtrive againſt the King of <hi>England,</hi> whoſe Forces (though not without much blood) ſhall obtain ſo remarkable a Victory over both <hi>French, Dutch</hi> and <hi>Danes,</hi> as the like hath not been heard of in any age. If Providence have aſſigned this Month for a Sea-fight, it's the <hi>ultimum vale</hi> of the <hi>Hogens.</hi> The active <hi>Scottiſh</hi> Privatiers ſeem to grow rich with their many and rich Prizes, taken as well from the <hi>Dane</hi> as the <hi>Hollander</hi> and <hi>French.</hi> The <hi>Venetians</hi> very hardly put unto it neer this Month, yet in a Naval Fight with the <hi>Turks</hi> they ſeem to proſper. About the ſecond week of this Month ſtrange and unuſal weather in many Coun<g ref="char:EOLhyphen"/>tries, and it ſeems to continue for many days. Ma<g ref="char:EOLhyphen"/>ny diviſions are like to be amongſt the Religious in <hi>Italy.</hi> Bleſſed News ſhould arrive of ſome noble Atchievement of His Majeſties Forces.</p>
+            </div>
+            <div n="august" type="month">
+               <head>AUGUSTS <hi>Obſervations.</hi> 1667.</head>
+               <p>IF Providence retard the Actions intended in the former Month until this preſent <hi>Auguſt,</hi> they then ſeem more ponderous and weighty in this Month, all parties being better prepared then in the former. The grand Configurations of this month ſignifie, <hi>Fugas in exercitu, ſtupores, anxietates, tri<g ref="char:EOLhyphen"/>ſtitias, &amp; timores, &amp; mortalitates, bella, &amp; guerras, &amp; interfectiones; erunt fulmina, tonitrua &amp; coruſca<g ref="char:EOLhyphen"/>tiones;</hi>
+                  <pb n="11" facs="tcp:154264:6"/>
+                  <hi>erunt ventorum flatus inconvenientes, ſubmer<g ref="char:EOLhyphen"/>ſiones navium &amp; pericula navigandi:</hi> Here are ſigni<g ref="char:EOLhyphen"/>fied to happen in this Month (if no Peace be ere this concluded) the flight of running away of many ingaged in Land or Sea-ſervice; great fears, troubles, ſorrows, amazements, mortality, wars, ſlaughters of men; much lightning, thunders, ſtrange ſights in the Air, very inconvenient or croſs winds, the drowning or ſinking of many Ships, great danger to all that Navigate the Seas; theſe actions are generally ſigni<g ref="char:EOLhyphen"/>fied to happen in all or moſt places of <hi>Europe,</hi> but more particularly nearer <hi>England,</hi> toward the North<g ref="char:EOLhyphen"/>eaſt thereof; High engagements aſſuredly are neer at hand, wherein the Engliſh fight againſt a Saturnine people, <hi>viz.</hi> a people who upon equal terms ſeldom dare encounter their enemy: Now in thoſe Confi<g ref="char:EOLhyphen"/>gurations of this Month portending Sea-fights, it is thus ſaid of the Ancients; <hi>Illi de terra Martis ſu<g ref="char:EOLhyphen"/>perabunt, eò quod irae &amp; audacia erunt in eis;</hi> Thoſe Navies, thoſe Souldiers who are under the Domini<g ref="char:EOLhyphen"/>on or dwel in the land of <hi>Mars</hi> (as the Engliſh do) ſhal overcome their Enemies, becauſe there is much of choler, anger, and boldneſs in them; whereas in Saturnine people there is much fear, cowardiſe, by reaſon of their want of heat. Still nothing but our ſins can prevent us of a glorious Victory.</p>
+            </div>
+            <div n="september" type="month">
+               <head>SEPTEMBERS <hi>Obſervations.</hi> 1667.</head>
+               <p>NEws from <hi>Ireland;</hi> Intelligence from <hi>Italy,</hi> from the <hi>Engliſh</hi> Plantations in the <hi>Weſt-In<g ref="char:EOLhyphen"/>dies,</hi> from the Streights and <hi>Spaniſh</hi> Coaſts; all ſhould be pleaſing and comfortable to <hi>England.</hi> Ad<g ref="char:EOLhyphen"/>dreſſes
+<pb n="12" facs="tcp:154264:7"/>
+made to His Majeſty of <hi>Great Britain</hi> from ſeveral parts; mens minds begin to hearken after Peace, and many general rumours diſperſed and ſpoken of to that purpoſe: Yet ſome of the male<g ref="char:EOLhyphen"/>configurations mentioned in <hi>Auguſt,</hi> may manifeſt their ſad influences in this <hi>September,</hi> unto the great<g ref="char:EOLhyphen"/>er glory of <hi>England,</hi> but exceeding misfortune of her enemies, whether <hi>Dutch, Dane,</hi> or <hi>French,</hi> whoſe imperious King finds great obſtructions in his civil affairs at home, and leſſer ſatisfaction in his military proceedings abroad; ſo that we may truly ſay of him, the preſent poſitions of Heaven do ſignifie, <hi>Paucitatem lucri, ſeu profectus in rebus, de quibus ſperatur utilitas; &amp; quod cadet in inimicitias ami<g ref="char:EOLhyphen"/>corum;</hi> he may expect little gain, no gainful returns in ſuch things and actions from which he thought to have reaped great gain; <hi>&amp; quod cadet in ini<g ref="char:EOLhyphen"/>micitias amicorum,</hi> his Confederates will receive no benefit from his aſſiſtance, and therefore there will follow controverſies and diſguſts between them, <hi>viz.</hi> there is much probability of an abſo<g ref="char:EOLhyphen"/>lute breach of the League betwixt him and the <hi>Dutch,</hi> and others, &amp;c. The Imperial affairs ſeem carried on with happy ſucceſſe, much to the ho<g ref="char:EOLhyphen"/>nour of the houſe of <hi>Auſtria,</hi> ſaving ſome ſmall fears in the Weſtern parts of his Dominions, wherein there ſeems more danger to be threatned then really will be executed.</p>
+               <l>
+                  <hi>Pax eſt dulciſſima rerum.</hi>
+               </l>
+            </div>
+            <div n="october" type="month">
+               <pb n="13" facs="tcp:154264:7"/>
+               <head>OCTOBERS <hi>Obſervations.</hi> 1667.</head>
+               <p>MAny ſcandalous reports caſt upon perſons of honour; the common people male-conten<g ref="char:EOLhyphen"/>ted, much dejected in their ſpirits; in ſeveral Coun<g ref="char:EOLhyphen"/>tries the Configurations ſignifie, <hi>dejectionem nobi<g ref="char:EOLhyphen"/>lium &amp; magnatum, at<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ipſorum malum eſſe, &amp; ex<g ref="char:EOLhyphen"/>altationem vilium &amp; ignobilium, &amp; contriſtabuntur Scribae, atque Legum Doctores, &amp; Conſules, &amp; Conſi<g ref="char:EOLhyphen"/>liarii, aut evenient eis impedimenta occulta, quorum cauſa triſtabuntur:</hi> In many Countries here is de<g ref="char:EOLhyphen"/>noted the downfal of Nobles and great Perſons, and their preſent ſad condition; Scribes, <hi>viz.</hi> the Legal perſons, or Lawyers, and Doctors of the Laws both Civil and Canon, State-holders, Senators, and Councellors of State ſhall have great cauſe to be ſorrowful, for there will be many accuſations a<g ref="char:EOLhyphen"/>gainſt them, many of their ſecret failings will be brought to light, and they ſuffer for their faults. A ſad fate ſeems to attend ſome high-ſpirited Grandee in this Month; and another eminent Gown-man either ends his days or loſeth his Office; A reverend Father of the Church is manifeſted to have his in<g ref="char:EOLhyphen"/>terment or death neer or in this Month, which ſeems to be fatal unto many of great years and in great dignity. Unruly weather, much rain, ſeve<g ref="char:EOLhyphen"/>ral floods, ſtrange and uncomfortable weather; no pleaſing Seed-time, the Farmer repining, and a disſatisfied Gentry conclude the Month.</p>
+               <p>Sudden but vain news comes from the North parts.</p>
+            </div>
+            <div n="november" type="month">
+               <pb n="14" facs="tcp:154264:8"/>
+               <head>NOVEMBERS <hi>Obſervations.</hi> 1667.</head>
+               <p>A Perſon of great counſel and conduct ſeems now to yield unto Death, greatly to the affli<g ref="char:EOLhyphen"/>ction of his Prince or Country; ſo alſo one of Royal Extraction is threatned with a lingring con<g ref="char:EOLhyphen"/>ſumptive Diſeaſe, much lamented the party will be, whecher male or female. <hi>Saturn</hi> and <hi>Jupiter</hi> are neer a ſecond Quadrature; the Courts of Princes troubled with their unruly Servants and Courtiers: The Clergy of Nations in ſome contempt: Thoſe of different judgments in things Divine complain of hard meaſure generally in all places of <hi>Europe:</hi> Thoſe who do now mediate to reconcile the Quar<g ref="char:EOLhyphen"/>rels of Nations in ſeveral parts of <hi>Europe,</hi> ſeem to complain of much fraud in the tranſactions there<g ref="char:EOLhyphen"/>of; however, if Providence for our ſins contradict in not, matters appear in a fair way towards a ſettle<g ref="char:EOLhyphen"/>ment; and the Monarch of <hi>Great Britain</hi> again vi<g ref="char:EOLhyphen"/>ſited from parts beyond Seas by ſeveral Agents for ſettlement of all Differences and Contraverſies. An inviſible Eclipſe as to <hi>England</hi> harms not the pro<g ref="char:EOLhyphen"/>greſſe of a Treaty, only manifeſts ſome unruly ſpi<g ref="char:EOLhyphen"/>rits in <hi>England,</hi> who aſperſe both Church and State. Several good Letters, bringing good news both to the Merchant and others, do neer this time arrive. Some ſtrange robbings and ſteelings, or robberies comitted towards the latter part of the Month.</p>
+            </div>
+            <div n="december" type="month">
+               <head>DECEMBERS <hi>Obſervations.</hi> 1667.</head>
+               <p>FRom moſt parts of <hi>Europe, England</hi> hath com<g ref="char:EOLhyphen"/>fortable Intelligence, and ſtronger hopes then
+<pb n="15" facs="tcp:154264:8"/>
+formerly of Peace and Tranquility at home, if not with other Nations; which God of his mercy grant. Some honourable Perſons of ſeveral Nations again interceding with His Majeſty for full reconcile<g ref="char:EOLhyphen"/>ment; ſo that if the <hi>Dutch</hi> be not ordained for a full deſtruction, a Peace in probability is neer at hand; but if they ſhal ſtill wilfully neglect his Ma<g ref="char:EOLhyphen"/>jeſties Civility and Clemency, let them Engliſh this Prediction, which is operating and in full force againſt them all 1667. <hi>viz.</hi> according unto <hi>Gauri<g ref="char:EOLhyphen"/>cus, p.</hi> 1329. <hi>M. Coeli ad</hi> □ ♂. This is to their Ma<g ref="char:EOLhyphen"/>giſtrates. <hi>Multa mala decernuntur ex inopinato, &amp; unde non ſperaverant, lites, jurgia &amp; mutuas ſimul<g ref="char:EOLhyphen"/>tates cum martialibus, quorum odiis multa mala por<g ref="char:EOLhyphen"/>tenduntur: inoplnata cum fortunarum jactura atque dedecore, multi à Magiſtratu deponentur; eruntque hoc anno</hi> 1667 <hi>tantis calamitatibus conquaſſati, ut quo ſe vertant, penitus ignorent, praevideant ne ab ho<g ref="char:EOLhyphen"/>ſtium inſidiis infligantur:</hi> Unexpectedly they ſhall receive much damage from whence they leaſt expe<g ref="char:EOLhyphen"/>cted it, conſtantly troubled with quarrelling and controverſies amongſt their Martial Commanders, by whoſe malice much detriment happens unto them; a ſudden wreck or ſubverſion of their Eſtates (which is moſt part in Ships;) with ſhame and ſcorn many will be deſpoſed from their Au<g ref="char:EOLhyphen"/>thority; they will in 1667. be ſo ſhaken with all manner of misfortunes, they will not know what to do; and let them beware pretended Friends prove not their worſt Enemies. <hi>Vivat &amp; floreat Rex Magnae Britanniae.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
